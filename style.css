@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+
+
+html , body{
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.button{
+    padding: 20px;
+    margin: 1px 0.125;
+    border: 2px solid green; 
+    border-radius: 10px;
+    font-size: 12.25px;
+    background-color:gold;
+    cursor: pointer;
+    color: black solid;
+    width: 53px;
+   
+}

@@ -1,0 +1,47 @@
+.text-center{
+    text-align: center;
+    background-color: lightsalmon;
+    border-radius: 15px;
+    margin: 25px 400;
+
+}
+
+.bg-red{
+    background-color:black;
+}
+
+.mx-auto{
+    margin: auto;
+    border-radius: 15px;
+}
+
+.m-w30{
+    max-width: 18vw;
+}
+
+.flex{
+    display: flex;
+
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row{
+    margin: 7px 2;
+}
+
+.row input{
+    margin: 0px;
+    padding: 20px 30 ;
+    border: 5px solid yellow;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-size: 12.5px;
+    text-align: left;
+}
